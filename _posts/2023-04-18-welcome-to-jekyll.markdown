@@ -16,7 +16,7 @@ date:   2023-04-23 00:53:12 +0900
 
 참고로 함께 공유 합니다.
 
-https://gsep.snu.ac.kr/introduction/news?bm=v&bbsidx=1673
+[서울대학교 공학전문대학원 뉴스레터](https://gsep.snu.ac.kr/introduction/news?bm=v&bbsidx=1673)
 
 앞으로도 흥미로운 내용으로 이 공간을 채워보도록 하겠습니다.
 
