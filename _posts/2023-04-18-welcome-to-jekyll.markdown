@@ -1,29 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-04-18 00:53:12 +0900
-categories: jekyll update
+title:  "Welcome to Kyo!"
+date:   2023-04-23 00:53:12 +0900
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+안녕하세요 
+저는 KT에서 AI 로봇코어플랫폼에서 근무하고 있는 이규호 입니다.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+본 블로그를 통해서, 제가 해결하려고 했던 문제와 그 해결과정과 배운내용을
+다른분들과 그 insight를 나누려는 목적으로 본 블로그를 운영하려고 합니다.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+아래는 간단하게, 제가 Publish한 저널과 관련하여 현재하는 일과 
+연구과정에 대해 소개한 글입니다 . 
 
-Jekyll also offers powerful support for code snippets:
+참고로 함께 공유 합니다.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+https://gsep.snu.ac.kr/introduction/news?bm=v&bbsidx=1673
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+앞으로도 흥미로운 내용으로 이 공간을 채워보도록 하겠습니다.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+-kyo-
