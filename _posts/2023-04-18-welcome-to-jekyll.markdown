@@ -14,7 +14,7 @@ typora-root-url: ../
 아래는 간단하게, 제가 Publish한 저널과 관련하여 현재 회사에서 하는 일과 
 연구과정에 대해 소개한 글입니다 . 
 
-![ns](C:\code_work\secondwind86.github.io\images\2023-04-18-welcome-to-jekyll\ns-1682428274018-1.jpg)
+![ns2](/images/2023-04-18-welcome-to-jekyll/ns2.jpg)
 
 [서울대학교 공학전문대학원 뉴스레터](https://gsep.snu.ac.kr/introduction/news?bm=v&bbsidx=1673)
 
