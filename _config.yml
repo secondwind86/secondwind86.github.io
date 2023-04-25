@@ -20,3 +20,7 @@ plugins:
 # Custom vars
 version:             0.11
 google_analytics_id: #UA-XXXX-Y
+
+# categories setting
+category_dir: category/
+tag_dir: tag/

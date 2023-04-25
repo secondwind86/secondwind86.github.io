@@ -2,6 +2,8 @@
 layout: post
 title:  "Welcome to Kyo!"
 date:   2023-04-23 00:53:12 +0900
+category: normal
+tags:["introduction", "motivation"]
 typora-root-url: ../
 ---
 
