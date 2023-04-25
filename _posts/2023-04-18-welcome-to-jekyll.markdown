@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Kyo!"
 date:   2023-04-23 00:53:12 +0900
-
+typora-root-url: ../
 ---
 
 안녕하세요 
